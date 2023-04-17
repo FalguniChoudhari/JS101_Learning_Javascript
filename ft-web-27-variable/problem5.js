@@ -1,0 +1,16 @@
+let name="mithanshu manmode";
+school="podar school";
+grade="A+";
+section="B";
+rollno=26;
+english=98;
+maths=90;
+science=93;
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(english);
+console.log(maths);
+console.log(science);
